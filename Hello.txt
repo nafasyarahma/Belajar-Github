@@ -4,3 +4,5 @@ Membuat commit 1 untuk squash
 Membuat commit 2 untuk squash
 Membuat commit 3 untuk squash
 
+Melakukan code review
+
