@@ -3,3 +3,4 @@ Hello, I'm learn about Git today. How about you?
 Membuat commit 1 untuk squash
 Membuat commit 2 untuk squash
 Membuat commit 3 untuk squash
+
